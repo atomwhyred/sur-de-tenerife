@@ -1,2 +1,2 @@
 # sur-de-tenerife
-Landing page of aesthetic clinic "Sur de Tenerife"
+Landing page of aesthetic clinic "Para todos"
