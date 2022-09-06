@@ -1,2 +1,2 @@
 # sur-de-tenerife
-Landing page of aesthetic clinic "Para todos"
+Landing page of aesthetic clinic " Clínica Medicina Estética y Flebología"
